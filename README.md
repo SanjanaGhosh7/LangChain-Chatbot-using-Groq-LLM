@@ -22,12 +22,12 @@ Runs fully in your terminal.
 
 🧰 Tech Stack   
 
-Component           	       Purpose
-Python                      Core programming language
-LangChain	                  Framework for building LLM workflows
-Groq LLM (Llama 3.3 70B)	   Language model for intelligent responses
-dotenv	                     Load environment variables securely
-Git & GitHub	               Version control and project hosting
+-Component           	       Purpose
+-Python                      Core programming language
+-LangChain	                  Framework for building LLM workflows
+-Groq LLM (Llama 3.3 70B)	   Language model for intelligent responses
+-dotenv	                     Load environment variables securely
+-Git & GitHub	               Version control and project hosting
 
 🧩 Project Structure
 

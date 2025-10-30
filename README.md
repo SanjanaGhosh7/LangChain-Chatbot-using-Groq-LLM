@@ -4,7 +4,7 @@
 This project is a simple AI chatbot built using LangChain and Groq’s Llama 3.3 70B model.
 It demonstrates how to integrate an LLM into a conversational app using prompt templates, parsing, and environment management.
 
-🚀 Project Overview
+🚀 #Project Overview
 
 The chatbot:
 
@@ -20,26 +20,27 @@ Supports chat history — maintaining context between turns.
 
 Runs fully in your terminal.
 
-🧰 Tech Stack   
+🧰 #Tech Stack:
+| Component                    | Purpose                                  |
+| ---------------------------- | ---------------------------------------- |
+| **Python**                   | Core programming language                |
+| **LangChain**                | Framework for building LLM workflows     |
+| **Groq LLM (Llama 3.3 70B)** | Language model for intelligent responses |
+| **dotenv**                   | Load environment variables securely      |
+| **Git & GitHub**             | Version control and project hosting      |
 
--Component           	       Purpose
--Python                      Core programming language
--LangChain	                  Framework for building LLM workflows
--Groq LLM (Llama 3.3 70B)	   Language model for intelligent responses
--dotenv	                     Load environment variables securely
--Git & GitHub	               Version control and project hosting
-
-🧩 Project Structure
-
+🧩 #Project Structure:
 Langchain_chatbot/
-- chatbot.py (Main chatbot logic)
-- requirements.txt (Dependencies)
-- .env (API key (not uploaded to GitHub))
-- .gitignore (Files to be ignored by Git)
--  README.md (Project documentation)
--  venv/ (Virtual environment (ignored))
+│
+├── chatbot.py              # Main chatbot logic
+├── requirements.txt        # Dependencies
+├── .env                    # API key (not uploaded to GitHub)
+├── .gitignore              # Files to be ignored by Git
+├── README.md               # Project documentation
+└── .venv/                  # Virtual environment (ignored)
 
-⚙️ Setup Instructions
+
+⚙️ #Setup Instructions
 
 1️⃣ Clone the repository
 git clone https://github.com/<yourusername>/Langchain_chatbot.git
@@ -59,7 +60,7 @@ GROQ_API_KEY=your_api_key_here
 5️⃣ Run the chatbot
 python chatbot.py
 
-🧠 What I Learned from This Project
+🧠 #What I Learned from This Project
 
 Through this project, I gained hands-on understanding of AI pipeline fundamentals and how modern LLM frameworks operate.
 Key takeaways:
@@ -100,7 +101,7 @@ Understanding how local and remote repos sync.
 
 Maintaining a professional project structure on GitHub.
 
-💡 Future Enhancements
+💡 #Future Enhancements
 
 Add a Streamlit UI for an interactive chat interface.
 
@@ -111,11 +112,11 @@ Store chat history using ChromaDB or FAISS for memory.
 Deploy on Streamlit Cloud or AWS Lambda.
 
 
-🧬 Author
+🧬 #Author
 👩‍💻 Sanjana Ghosh
 Bioinformatics & AI Enthusiast | Exploring GenAI in Healthcare
 🌐 LinkedIn
  • GitHub
 
-📜 License
+📜 #License
 This project is open-source and available under the MIT License.

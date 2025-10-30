@@ -30,14 +30,15 @@ Git & GitHub	               Version control and project hosting
 
 🧩 Project Structure
 Langchain_chatbot/
-- chatbot.py              # Main chatbot logic
-- requirements.txt        # Dependencies
-- .env                    # API key (not uploaded to GitHub)
-- .gitignore              # Files to be ignored by Git
--  README.md              # Project documentation
--  venv/                  # Virtual environment (ignored)
+- chatbot.py              Main chatbot logic
+- requirements.txt        Dependencies
+- .env                    API key (not uploaded to GitHub)
+- .gitignore              Files to be ignored by Git
+-  README.md              Project documentation
+-  venv/                  Virtual environment (ignored)
 
 ⚙️ Setup Instructions
+
 1️⃣ Clone the repository
 git clone https://github.com/<yourusername>/Langchain_chatbot.git
 cd Langchain_chatbot

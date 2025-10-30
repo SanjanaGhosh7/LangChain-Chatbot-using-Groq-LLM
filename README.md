@@ -32,11 +32,16 @@ Runs fully in your terminal.
 🧩 Project Structure:
 
 Langchain_chatbot/
--chatbot.py → Core chatbot logic using LangChain and Groq API 
+-chatbot.py → Core chatbot logic using LangChain and Groq API
+
 -requirements.txt → Lists all required Python packages
+
 -.env → Stores sensitive API keys (excluded from GitHub)
+
 -.gitignore → Tells Git which files/folders to ignore
--README.md → Documentation about the projec
+
+-README.md → Documentation about the project
+
 -.venv/ → Local Python virtual environment (ignored by Git)
 
 ⚙️ Setup Instructions

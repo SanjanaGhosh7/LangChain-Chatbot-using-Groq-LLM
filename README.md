@@ -1,10 +1,11 @@
 # LangChain-Chatbot-using-Groq-LLM
+
 🧬 LangChain Chatbot using Groq LLM
 
 This project is a simple AI chatbot built using LangChain and Groq’s Llama 3.3 70B model.
 It demonstrates how to integrate an LLM into a conversational app using prompt templates, parsing, and environment management.
 
-🚀 **Project Overview**
+🚀 **Project Overview:**
 
 **The chatbot:**
 
@@ -20,6 +21,7 @@ Supports chat history — maintaining context between turns.
 
 Runs fully in your terminal.
 
+
 🧰 **Tech Stack:**
 | Component                    | Purpose                                  |
 | ---------------------------- | ---------------------------------------- |
@@ -28,6 +30,7 @@ Runs fully in your terminal.
 | **Groq LLM (Llama 3.3 70B)** | Language model for intelligent responses |
 | **dotenv**                   | Load environment variables securely      |
 | **Git & GitHub**             | Version control and project hosting      |
+
 
 🧩 **Project Structure:**
 
@@ -44,6 +47,7 @@ Langchain_chatbot/
 -README.md → Documentation about the project
 
 -.venv/ → Local Python virtual environment (ignored by Git)
+
 
 ⚙️ **Setup Instructions:**
 
@@ -64,6 +68,7 @@ GROQ_API_KEY=your_api_key_here
 
 5️⃣ Run the chatbot
 python chatbot.py
+
 
 🧠 **What I Learned from This Project:**
 
@@ -105,6 +110,7 @@ Initializing repositories, staging, committing, pushing.
 Understanding how local and remote repos sync.
 
 Maintaining a professional project structure on GitHub.
+
 
 💡 **Future Enhancements:**
 

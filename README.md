@@ -118,6 +118,7 @@ Deploy on Streamlit Cloud or AWS Lambda.
 
 
 🧬 Author
+
 👩‍💻 Sanjana Ghosh
 Bioinformatics & AI Enthusiast | Exploring GenAI in Healthcare   
 [in]: https://www.linkedin.com/in/sanjana-ghosh-2a5b7c11d/   
@@ -125,4 +126,5 @@ Bioinformatics & AI Enthusiast | Exploring GenAI in Healthcare
  
 
 📜 License
+
 This project is open-source and available under the MIT License.

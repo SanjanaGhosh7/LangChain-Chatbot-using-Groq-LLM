@@ -122,7 +122,6 @@ Deploy on Streamlit Cloud or AWS Lambda.
 Bioinformatics & AI Enthusiast | Exploring GenAI in Healthcare
 
 [in]: https://www.linkedin.com/in/sanjana-ghosh-2a5b7c11d/
-
 🔗 : https://medium.com/@sanjanaghosh25
  
 

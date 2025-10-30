@@ -32,6 +32,7 @@ Runs fully in your terminal.
 🧩 Project Structure:
 
 Langchain_chatbot/
+
 -chatbot.py → Core chatbot logic using LangChain and Groq API
 
 -requirements.txt → Lists all required Python packages

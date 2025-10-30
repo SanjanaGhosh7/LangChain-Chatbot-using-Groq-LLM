@@ -1,0 +1,19 @@
+# environment
+.env
+*.env
+Your_API_KEY.env
+GROQ_API_KEY.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+

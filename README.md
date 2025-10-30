@@ -20,13 +20,14 @@ Supports chat history — maintaining context between turns.
 
 Runs fully in your terminal.
 
-🧰 Tech Stack
-Component	Purpose
-Python	Core programming language
-LangChain	Framework for building LLM workflows
-Groq LLM (Llama 3.3 70B)	Language model for intelligent responses
-dotenv	Load environment variables securely
-Git & GitHub	Version control and project hosting
+🧰 Tech Stack   
+Component           	       Purpose
+Python                      Core programming language
+LangChain	                  Framework for building LLM workflows
+Groq LLM (Llama 3.3 70B)	   Language model for intelligent responses
+dotenv	                     Load environment variables securely
+Git & GitHub	               Version control and project hosting
+
 🧩 Project Structure
 Langchain_chatbot/
 │
@@ -50,9 +51,7 @@ source .venv/Scripts/activate   # for Windows PowerShell
 pip install -r requirements.txt
 
 4️⃣ Add your API key
-
 Create a .env file and paste:
-
 GROQ_API_KEY=your_api_key_here
 
 5️⃣ Run the chatbot
@@ -109,13 +108,12 @@ Store chat history using ChromaDB or FAISS for memory.
 
 Deploy on Streamlit Cloud or AWS Lambda.
 
-🧬 Author
 
+🧬 Author
 👩‍💻 Sanjana Ghosh
 Bioinformatics & AI Enthusiast | Exploring GenAI in Healthcare
 🌐 LinkedIn
  • GitHub
 
 📜 License
-
 This project is open-source and available under the MIT License.

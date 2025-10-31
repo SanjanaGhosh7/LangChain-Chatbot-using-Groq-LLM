@@ -52,7 +52,7 @@ Langchain_chatbot/
 ⚙️ **Setup Instructions:**
 
 1️⃣ Clone the repository
-git clone https://github.com/<yourusername>/Langchain_chatbot.git
+[git clone https://github.com/SanjanaGhosh7/LangChain-Chatbot-using-Groq-LLM.git]
 cd Langchain_chatbot
 
 2️⃣ Create a virtual environment

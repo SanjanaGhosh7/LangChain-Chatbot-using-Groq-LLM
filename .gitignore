@@ -1,8 +1,7 @@
 # environment
 .env
 *.env
-Your_API_KEY.env
-GROQ_API_KEY.env
+*.env.*
 
 # python
 .venv/

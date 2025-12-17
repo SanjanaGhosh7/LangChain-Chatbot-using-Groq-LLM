@@ -42,13 +42,9 @@ Langchain_chatbot/
 
 -Dockerfile → For containerization and portable deployment of the app
 
--.env → Stores sensitive API keys (excluded from GitHub)
-
 -.gitignore → Tells Git which files/folders to ignore
 
 -README.md → Documentation about the project
-
--.venv/ → Local Python virtual environment (ignored by Git)
 
 
 ⚙️ **Setup Instructions:**
